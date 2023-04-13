@@ -354,7 +354,7 @@ F:O objectivo da primeira acção realizada pela Greenpeace era impedir as exper
 Q:Qual era o objectivo da primeira acção realizada pela Greenpeace?
 A:impedir as experiências nucleares americanas na ilha d.
 
-F:Estão a decorrer no mundo 70 gerras.
+F:Estão a decorrer no mundo 70 guerras.
 Q:Quantas guerras estão a decorrer no mundo?
 A:70.
 
