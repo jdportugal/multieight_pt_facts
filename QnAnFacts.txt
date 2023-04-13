@@ -2089,13 +2089,21 @@ A:Vitali Massol.
 F:A 28 de Abril os cannabis foram despenalizados na Alemanha.
 Q:Quando foram os cannabis despenalizados na Alemanha?
 A:28 de Abril.
+
+F:Charles Millon é presidente da UDF.
 Q:De que grupo político é Charles Millon presidente?
 A:UDF.
+
+F:O novo presidente do Ruanda é Pasteur Bizimungu.
 Q:Quem é o novo presidente do Ruanda?
 A:Pasteur Bizimungu.
+
+F:a Conferência Internacional sobre a População e Desenvolvimento teve lugar no Cairo.
 Q:Onde teve lugar a Conferência Internacional sobre a População e Desenvolvimento?
-A:</question>.
-<answer n="1" docid="">	Q:Quando decorreu o 48º festival de Avignon?
+A:no Cairo.
+
+F:O 48º festival de Avignon decorrer de 8 de Julho a 2 de Agosto.
+Q:Quando decorreu o 48º festival de Avignon?
 A:de 8 de Julho a 2 de Agosto.
 
 F:Lomé é a capital do Togo.
